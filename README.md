@@ -1,4 +1,4 @@
-# Playbooks para demos de AAP o AWX
+# Playbooks para demos de AAP
 
 ![Ansible Logo](https://img.shields.io/badge/Ansible-Automation%20Platform-red?style=for-the-badge&logo=ansible)
 
